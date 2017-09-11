@@ -1431,7 +1431,7 @@ case "${command}" in
         start_command "$@";;
 
     status)
-        status_command "$@";;        
+        status_command "$@";;
 
     stop)
         stop_command "$@";;
